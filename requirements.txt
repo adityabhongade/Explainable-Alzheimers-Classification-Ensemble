@@ -8,3 +8,4 @@ Pillow
 tqdm
 scikit-learn
 joblib
+shap
