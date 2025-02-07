@@ -1,6 +1,6 @@
 # Alzheimer's Classification Ensemble  
 
-This repository contains the source code, experimentation results, and trained models for the paper titled *"ADNI Ensemble,"* currently submitted to IEEE INDISCON 2025.  
+This repository contains the source code, experimentation results, and trained models for the paper titled *"Explainable Vision Ensemble for Alzheimer's Disease Classification using Brain MRIs,"* currently submitted to IEEE INDISCON 2025.  
 
 This experimentation was conducted on Kaggle. To reproduce or modify it in a different environment, necessary changes are required. The dependencies listed in [requirements.txt](requirements.txt) must be installed using the following command:  
 
